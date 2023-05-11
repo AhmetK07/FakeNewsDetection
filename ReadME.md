@@ -1,1 +1,0 @@
-Satirical Fake News Detection
