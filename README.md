@@ -8,4 +8,4 @@ Bir mezuniyet projesi adı altında yoldaşlarımla birlikte beraber açtığım
 4.CNN<br>
 
 Ve elbette bunların verdiği sonuçların doğruluğunu ölçmemiz için kullanılan parametrelerle birlikte sonuçları gösteren tablomuz aşağıdaki gibidir.<br>
-(https://github.com/AhmetK07/FakeNewsDetection/blob/main/Result_Table.png)
+[Tablo]: (https://github.com/AhmetK07/FakeNewsDetection/blob/main/Result_Table.png) "Result Table"
