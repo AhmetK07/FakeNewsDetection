@@ -6,4 +6,6 @@ Bir mezuniyet projesi adı altında yoldaşlarımla birlikte beraber açtığım
 2.Logistic Regression<br>
 3.Xgboost<br>
 4.CNN<br>
+
 Ve elbette bunların verdiği sonuçların doğruluğunu ölçmemiz için kullanılan parametrelerle birlikte sonuçları gösteren tablomuz aşağıdaki gibidir.
+![]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://github.com/AhmetK07/FakeNewsDetection/blob/main/Result_Table.png))
