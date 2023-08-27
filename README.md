@@ -8,8 +8,8 @@ Bir mezuniyet projesi adı altında yoldaşlarımla birlikte beraber açtığım
 4.CNN<br>
 
 Ve elbette bunların verdiği sonuçların doğruluğunu ölçmemiz için kullanılan parametrelerle birlikte sonuçları gösteren tablomuz aşağıdaki gibidir.<br>
-(train-test):Eğitimde kullanılan veriseti doğruluk oranı<br>
-(new test):Verisetinde bulunmaayan ve sonradan toplanmış toplam 300 adet twitter yazısının modelin tahmin sonuçları.<br>
+(:1:)"train-test":Eğitimde kullanılan veriseti değerlerinin tahmin doğruluk oranı<br>
+(:2:)"new test":Verisetinde bulunmaayan ve sonradan toplanmış toplam 300 adet twitter yazısının modelin tahmin doğruluk oranı<br>
 ![](Result_Table.png)
 
 
